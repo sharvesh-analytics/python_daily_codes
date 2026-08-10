@@ -1,4 +1,4 @@
-   # LIST
+    # LIST
 
 # List ek ordered collection hai.
 
