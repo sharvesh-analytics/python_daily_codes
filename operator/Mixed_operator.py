@@ -3,4 +3,5 @@ b = 5
 
 result = (a + b) * 2 > 20 and b < 10
 
+
 print(result)
