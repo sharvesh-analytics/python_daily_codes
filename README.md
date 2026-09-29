@@ -32,10 +32,3 @@ I solve problems regularly to improve my coding skills, logic building, and unde
 | Day 2 | Fibonacci | Loop |
 | Day 3 | Prime Number | Condition |
 
-*(I update this table regularly)*
-
----
-
-## ▶️ How to Run
-
-1. Run the file:
