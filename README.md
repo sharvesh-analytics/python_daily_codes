@@ -25,10 +25,4 @@ I solve problems regularly to improve my coding skills, logic building, and unde
 
 ---
 
-## 📅 Daily Progress
-| Day | Problem | Topic |
-|-----|--------|------|
-| Day 1 | Factorial | Loop |
-| Day 2 | Fibonacci | Loop |
-| Day 3 | Prime Number | Condition |
 
