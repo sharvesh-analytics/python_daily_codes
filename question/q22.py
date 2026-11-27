@@ -1,3 +1,4 @@
+
 num = int(input("enter the number"))
 
 count=0
